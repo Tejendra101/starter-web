@@ -11,5 +11,8 @@ It is to show different parts
 Sample website with plenty of files for demos
 
 ## Contribute
+will be disclosed soon
 
 ## Deployment
+
+Will be deployed soon.
